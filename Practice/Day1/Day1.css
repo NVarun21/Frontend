@@ -79,10 +79,12 @@ h4{
     font-weight:bold;
 }
 .card{
-    padding:15px;
     display:flex;
     flex-direction:row;
     justify-content:space-between;
+    align-items:center;
+    gap: 5px;
+    padding:5px;
 }
 
 @media (max-width:576px){
